@@ -1,7 +1,7 @@
 {
-  "apiBaseUrl": "https://handheld-reel-cards-comics.trycloudflare.com",
-  "webBaseUrl": "https://cardiff-amp-jerry-greatly.trycloudflare.com",
+  "apiBaseUrl": "https://biol-streets-prisoner-systematic.trycloudflare.com",
+  "webBaseUrl": "http://172.21.44.21:3002",
   "announcement": "Buylow demo runtime control document. Update apiBaseUrl here to repoint fresh app launches without rebuilding.",
-  "minimumSupportedVersion": "1.0.2",
-  "updatedAt": "2026-03-21T04:28:41Z"
+  "minimumSupportedVersion": "1.0.4",
+  "updatedAt": "2026-03-21T08:42:30Z"
 }
